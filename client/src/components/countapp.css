@@ -1,0 +1,27 @@
+body{
+    background-image: url("../Images/Cool-Light-Backgrounds.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    
+    
+    
+}
+
+
+.form{
+    
+    position: relative;
+    top:10em;
+    width:50%;
+    box-shadow:3px 3px 3px 3px rgba(0, 0, 0, 0.521);
+    left:25%;
+    height:50vh;
+    opacity: .75;
+    background-image: linear-gradient(rgba(102, 61, 7, 0.681), rgba(240, 131, 36, 0.533), rgba(8, 6, 85, 0.629));
+}
+
+.email{
+    
+    position: relative;
+    margin: 10%;
+}
